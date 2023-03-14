@@ -1,6 +1,6 @@
 {
-  "name": "webpack-svgstore-plugin",
-  "version": "6.0.0-algotec.6",
+  "name": "@pmpepper/webpack-svgstore-plugin",
+  "version": "1.0.0",
   "description": "Webpack svgstore plugin",
   "main": "src/svgstore.js",
   "scripts": {
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mrsum/webpack-svgstore-plugin"
+    "url": "https://github.com/PMPepper/webpack-svgstore-plugin"
   }
 }
